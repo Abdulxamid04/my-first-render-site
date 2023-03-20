@@ -8,7 +8,7 @@
 }
 :root{
     --sky-blue: #0fcdef;
-    --dark-blue: #ffffff;
+    --dark-blue: #000000;
     --grey: #babcc2;
     --light-blue: #f8f9ff;
 }
@@ -39,7 +39,7 @@ body{
 }
 .card{
     text-align: center;
-    background-color: #fff 50%;
+    background-color:transparent;
     max-width: 500px;
     margin: auto;
     padding-bottom: 2rem;
